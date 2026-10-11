@@ -2,3 +2,4 @@ easyocr
 opencv-python
 pandas
 openpyxl
+folium
